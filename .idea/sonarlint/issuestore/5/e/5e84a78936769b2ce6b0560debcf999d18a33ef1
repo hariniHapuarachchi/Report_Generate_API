@@ -1,0 +1,19 @@
+
+o
+java:S1192@"RDefine a constant instead of duplicating this literal "    FOREIGN KEY (" 3 times.(’¯´½8®‹Ë·Ú.
+r
+java:S1192A"PDefine a constant instead of duplicating this literal "    REFERENCES " 3 times.(ßá–›ûÿÿÿÿ8®‹Ë·Ú.
+
+java:S1488†"^Immediately return this expression instead of assigning it to the temporary variable "cursor".(©˜¿Æüÿÿÿÿ8®‹Ë·Ú.
+p
+java:S1192<"NDefine a constant instead of duplicating this literal "create table " 4 times.(ô—ıõûÿÿÿÿ8®‹Ë·Ú.
+s
+java:S1192R"VDefine a constant instead of duplicating this literal "DROP TABLE IF EXISTS " 4 times.(Í¯·Ì8®‹Ë·Ú.
+c
+java:S1126f"AReplace this if-then-else statement by a single return statement.(Ğüæ§şÿÿÿÿ8ñôÚ.
+W	java:S125i"<This block of commented-out lines of code should be removed.(»€ÒI8ñôÚ.
+j
+java:S1192<"HDefine a constant instead of duplicating this literal " TEXT, " 8 times.(ô—ıõûÿÿÿÿ8®‹Ë·Ú.
+W	java:S125s"<This block of commented-out lines of code should be removed.(»€ÒI8ñôÚ.
+€
+java:S1488r"^Immediately return this expression instead of assigning it to the temporary variable "cursor".(ÚùÑùÿÿÿÿ8ñôÚ.

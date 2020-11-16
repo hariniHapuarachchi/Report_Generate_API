@@ -1,0 +1,65 @@
+
+N
+java:S1128
+"1Remove this unused import 'android.os.AsyncTask'.(À»¥—8Ò¤¬òÚ.
+X	java:S1252"<This block of commented-out lines of code should be removed.(ĞöÊá8¢˜½õÚ.
+S
+java:S1128"1Remove this unused import 'android.telecom.Call'.(³ì“õşÿÿÿÿ8Ò¤¬òÚ.
+Z	java:S106z"9Replace this use of System.out or System.err by a logger.(ØÜÌûÿÿÿÿ8öû»õÚ.
+O
+java:S1128"3Remove this unused import 'java.io.BufferedWriter'.(¬õº/8İ¿±òÚ.
+P
+java:S1128)".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8öû»õÚ.
+g
+java:S11285"ERemove this unused import 'android.provider.Telephony.Carriers.PORT'.(Ééç×üÿÿÿÿ8í¸Ÿ¹Ú.
+X	java:S1108"<This class has 9 parents which is greater than 5 authorized.(²Ú±8öû»õÚ.
+T
+java:S1128	"7Remove this unused import 'android.net.ParseException'.(«È»û8ºï´¹Ú.
+c
+java:S2147¤"ECombine this catch with the one at line 162, which has the same body.(ï­£Ä8Â¤ÔõÚ.
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8İ¿±òÚ.
+Q
+java:S1128"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ8öû»õÚ.
+Y
+java:S1128+"=Remove this unused import 'javax.net.ssl.HttpsURLConnection'.(æÎº08öû»õÚ.
+T
+java:S1128""7Remove this unused import 'java.io.OutputStreamWriter'.(Ÿ“¸8öû»õÚ.
+W
+java:S11286"5Remove this unused import 'java.net.Proxy.Type.HTTP'.(şø¹»üÿÿÿÿ8öû»õÚ.
+[
+java:S4719p"9Replace charset name argument with StandardCharsets.UTF_8(ó»‚Àşÿÿÿÿ8Â¤ÔõÚ.
+X	java:S125"<This block of commented-out lines of code should be removed.(¢ŸûN8Â¤ÔõÚ.
+]	java:S125}"<This block of commented-out lines of code should be removed.(úĞÂ×ÿÿÿÿÿ8Â¤ÔõÚ.
+]	java:S125a"<This block of commented-out lines of code should be removed.(”è†ùÿÿÿÿ8ã°×õÚ.
+[	java:S106°"9Replace this use of System.out or System.err by a logger.(ñÂíÃÿÿÿÿÿ8öû»õÚ.
+O
+java:S1128."2Remove this unused import 'okhttp3.MultipartBody'.(ÕœˆŒ8öû»õÚ.
+P
+java:S1135™"2Complete the task associated to this TODO comment.(æúÒ…8öû»õÚ.
+Y
+java:S1128%"7Remove this unused import 'java.net.ProtocolException'.(é­Èğûÿÿÿÿ8öû»õÚ.
+V
+java:S1128"4Remove this unused import 'android.net.DnsResolver'.(·ğçşÿÿÿÿ8çÍ—¹Ú.
+W
+java:S1128"5Remove this unused import 'java.io.DataOutputStream'.(¸Îáíıÿÿÿÿ8öû»õÚ.
+]	java:S1250"<This block of commented-out lines of code should be removed.(ÔĞı×üÿÿÿÿ8ª¶½õÚ.
+y
+java:S11284"\Remove this unused import 'android.provider.ContactsContract.CommonDataKinds.Email.ADDRESS'.(ùıÌ8çÍ—¹Ú.
+Z	java:S106|"9Replace this use of System.out or System.err by a logger.(œÉ¨Ñşÿÿÿÿ8Â¤ÔõÚ.
+Z	java:S106\"9Replace this use of System.out or System.err by a logger.(¿ÕÎöüÿÿÿÿ8öû»õÚ.
+i
+java:S1192B"GDefine a constant instead of duplicating this literal "Female" 4 times.(ŒùÙ£şÿÿÿÿ8öû»õÚ.
+O
+java:S1128"2Remove this unused import 'android.os.StrictMode'.(Ä§Ì„8âŞàõÚ.
+{
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(öîòñüÿÿÿÿ8öû»õÚ.
+Y
+java:S1128"=Remove this unused import 'androidx.appcompat.app.ActionBar'.(·¯z8êúóÚ.
+X	java:S125m"<This block of commented-out lines of code should be removed.(šæ…×8öû»õÚ.
+[
+java:S1128"9Remove this unused import 'java.io.BufferedOutputStream'.(«èÍôıÿÿÿÿ8öû»õÚ.
+m	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á­Ì8öû»õÚ.
+Y	java:S125¬"<This block of commented-out lines of code should be removed.(ÿ†‰ˆ8öû»õÚ.
+[
+java:S4719t"9Replace charset name argument with StandardCharsets.UTF_8(×Çİ„ÿÿÿÿÿ8Â¤ÔõÚ.

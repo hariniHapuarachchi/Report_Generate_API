@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="url">http://localhost:8081/users</string>
+</resources>
